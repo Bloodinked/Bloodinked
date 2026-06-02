@@ -7,4 +7,4 @@
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&duration=1&pause=5000&color=49ABF7E4&center=true&repeat=false&random=true&width=435&lines=strawpage)](https://git.io/typing-svg) 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&duration=1&pause=5000&color=49ABF7E4&center=true&repeat=false&random=true&width=435&lines=atabook)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Felipa&duration=1&pause=5000&color=49ABF7E4&center=true&repeat=false&random=true&width=435&lines=atabook)](https://sleepyash.atabook.org)
